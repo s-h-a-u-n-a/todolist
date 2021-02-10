@@ -1,0 +1,60 @@
+Version 1:
+[x] it should have a place to store to dos 
+[x] it should have a way to display to dos
+[x] it should have a way to add a to do 
+[x] it should have a way  to edit a to do 
+[x] it should have a way to remove a to do 
+
+Version 2:
+[x] it should have a function to add a to do 
+[x] it should have a function to edit a to do 
+[x] it should have a function to remove a to do 
+
+Version 3: 
+[x] We should initialise the todos variables with objects 
+[x] The add function should add objects 
+[x] The edit function should edit objects as opposed to replacing them 
+
+Version 4: 
+[x] It should be able to toggle the 'todo' item 
+
+Version 5: 
+[x] We should have a function to display our todos
+[x] displayTodos - it should show the todos text property 
+[x] display todos should show the completed property  
+
+Version 6:
+[x] It should have a function to toggle all of the todos at once 
+[x] if everything is false then we should change everything to true 
+[x] if everything is true ===> everything should be false 
+
+Version 7:
+[x] It should have a button for displaying todos
+[x] The display todos button should run the display todos function 
+[x] It should have a toggle all button 
+[x] The toggle all button should run the toggle all function 
+
+Version 8: 
+[x] There should be a working button for adding a todo  
+[x] There should be a working button for editing a todo  
+[x] There should be a working button for removing a todo  
+[x] There should be a working button for toggling a todo  
+
+Version 9:
+[x] There should be an Li for each todo 
+[x] Each Li should show the todo text property 
+[X] Each Li should show the todo completed property 
+
+Version 10: 
+[x] Each todo should have its own remove button 
+[x] The remove buttons should actually work 
+
+Version 11: 
+[x] Each todo should have its own toggle button 
+[x] it should work 
+
+Version 12: 
+[x] each todo should have its own edit button 
+[x] the button should actually work 
+[x] if someone hits cancel we should hit nothing 
+[x] if someone hits nothing we should do nothing 
